@@ -1,0 +1,36 @@
+{
+  "name": "skate-web-component",
+  "version": "1.0.0",
+  "description": "stake web components",
+  "main": "index.js",
+  "dependencies": {
+    "skatejs": "^1.5.1",
+    "skatejs-web-components": "^1.1.4",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "webpack": "^1.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchappypig/skate-web-component.git"
+  },
+  "keywords": [
+    "stake",
+    "web",
+    "component"
+  ],
+  "author": "Huanhuan Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchappypig/skate-web-component/issues"
+  },
+  "homepage": "https://github.com/jchappypig/skate-web-component#readme"
+}
